@@ -1,4 +1,13 @@
+# Age Calculator
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Acknowledgement
+https://github.com/maccman/motivation
+
+## Tasks
+- [ ] Add Date Picker
+- [ ] Add cache functionality
 
 ## Available Scripts
 
@@ -66,3 +75,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+## Built with :heart: by [Meet Borda](https://github.com/MeetBorda)
+
+<img  src="https://drive.google.com/uc?id=1bCNH8zv3Vj1WA4Vw-D1ow41sOSJSDEOB" width="48" height="48"/>
