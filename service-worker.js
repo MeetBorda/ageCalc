@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ageCalc/precache-manifest.929fd2b3199735267db539c7bc716a66.js"
+  "/ageCalc/precache-manifest.bef841df2173f578d3265c36bd9812f0.js"
 );
 
 workbox.clientsClaim();
